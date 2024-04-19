@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains three Jupyter Notebook files (`Segformer.ipynb`, `FCN.ipynb`, and `LRASPP.ipynb`) used for semantic segmentation projects. Each file utilizes a different model specified in its name, but otherwise, they share a similar structure.
+This repository contains Jupyter Notebook files used for semantic segmentation projects. Each file utilizes a different model specified in its name, but otherwise, they share a similar structure.
 
 ## Setup Instructions
 
